@@ -4,6 +4,7 @@
   "main": "overthrow.js",
   "ignore": [
     "LICENSE",
+    "*.json",
     "*.md"
   ]
 }
