@@ -1,0 +1,9 @@
+{
+  "name": "overthrow-dist",
+  "version": "0.5.0",
+  "main": "overthrow.js",
+  "ignore": [
+    "LICENSE",
+    "*.md"
+  ]
+}
